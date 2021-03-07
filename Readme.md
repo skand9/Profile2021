@@ -1,12 +1,12 @@
 # Profile2021 How to document
-Go to expo.io website
+1)Go to expo.io website
 https://docs.expo.io
-Open terminal
-npm install --global expo-cli
-Inside the project: In terminal
+2)Open terminal
+3)npm install --global expo-cli
+4)Go to project folder in the terminal:
 	npm install
 	npm run web
-It will open an interface…in that click iosSimulator
+5)It will open an interface…in that click iosSimulator
 
 
 **See YouTube video —> how to open iossimulator

@@ -6,7 +6,7 @@ https://docs.expo.io
 4)Go to project folder in the terminal:
 	npm install
 	npm run web
-5)It will open an interface…in that click iosSimulator
+5)An interface will be opened-->In that click iosSimulator
 
 
 **See YouTube video —> how to open iossimulator

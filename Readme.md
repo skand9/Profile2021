@@ -1,4 +1,5 @@
 # Profile2021 How to document
+If you are running the project on MacOS, install Xcode.
 1)Go to expo.io website
 https://docs.expo.io
 2)Open terminal
